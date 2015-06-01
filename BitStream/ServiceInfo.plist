@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0001 - ServiceClassIDList</key>
+	<array>
+		<data>AAARAQAAEACAAACAX5s0+w==</data>
+	</array>
+	<key>0004 - ProtocolDescriptorList</key>
+	<array>
+		<array>
+			<data>AAABAAAAEACAAACAX5s0+w==</data>
+		</array>
+		<array>
+			<data>AAAAAwAAEACAAACAX5s0+w==</data>
+			<dict>
+				<key>DataElementSize</key>
+				<integer>1</integer>
+				<key>DataElementType</key>
+				<integer>1</integer>
+				<key>DataElementValue</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+	</array>
+	<key>0005 - BrowseGroupList</key>
+	<dict/>
+	<key>0006 - LanguageBaseAttributeIDList</key>
+	<array>
+		<integer>256</integer>
+	</array>
+	<key>0009 - BluetoothProfileDescriptorList</key>
+	<array>
+		<array>
+			<data>AAARAQAAEACAAACAX5s0+w==</data>
+			<integer>256</integer>
+		</array>
+	</array>
+	<key>0100 - ServiceName</key>
+	<string>BitStream</string>
+	<key>0101 - ServiceDescription</key>
+	<string>Stream of randomized data to test bandwidth and connection</string>
+	<key>0102 - ProviderName</key>
+	<string>Rampant Stag Software</string>
+	<key>0200 - VersionNumberList</key>
+	<dict/>
+	<key>0201 - ServiceDatabaseState</key>
+	<dict/>
+	<key>0200 - GroupID</key>
+	<dict/>
+	<key>0200 - IPSubnet</key>
+	<dict/>
+	<key>0200 - HIDReleaseNumber</key>
+	<dict/>
+	<key>0201 - HIDParserVersion</key>
+	<dict/>
+	<key>0202 - HIDDeviceSubclass</key>
+	<dict/>
+	<key>0203 - HIDCountryCode</key>
+	<dict/>
+	<key>0204 - HIDVirtualCable</key>
+	<dict/>
+	<key>0205 - HIDReconnectInitiate</key>
+	<dict/>
+	<key>0206 - HIDDescriptorList</key>
+	<dict/>
+	<key>0207 - HIDLangIDBaseList</key>
+	<dict/>
+	<key>0208 - HIDSDPDisable</key>
+	<dict/>
+	<key>0209 - HIDBatteryPower</key>
+	<dict/>
+	<key>020A - HIDRemoteWake</key>
+	<dict/>
+	<key>020B - HIDProfileVersion</key>
+	<dict/>
+	<key>020C - HIDSupervisionTimeout</key>
+	<dict/>
+	<key>020D - HIDNormallyConnectable</key>
+	<dict/>
+	<key>020E - HIDBootDevice</key>
+	<dict/>
+	<key>0300 - ServiceVersion</key>
+	<dict/>
+	<key>0301 - ExternalNetwork</key>
+	<dict/>
+	<key>0301 - Network</key>
+	<dict/>
+	<key>0301 - SupportedDataStoresList</key>
+	<dict/>
+	<key>0302 - FaxClass1Support</key>
+	<dict/>
+	<key>0302 - RemoteAudioVolumeControl</key>
+	<dict/>
+	<key>0303 - FaxClass2_0Support</key>
+	<dict/>
+	<key>0303 - SupporterFormatsList</key>
+	<dict/>
+	<key>0304 - FaxClass2Support</key>
+	<dict/>
+	<key>0305 - AudioFeedbackSupport</key>
+	<dict/>
+	<key>0306 - NetworkAddress</key>
+	<dict/>
+	<key>0307 - WAPGateway</key>
+	<dict/>
+	<key>0308 - HomepageURL</key>
+	<dict/>
+	<key>0309 - WAPStackType</key>
+	<dict/>
+	<key>030A - SecurityDescription</key>
+	<dict/>
+	<key>030B - NetAccessType</key>
+	<dict/>
+	<key>030C - MaxNetAccessRate</key>
+	<dict/>
+	<key>0310 - SupportedCapabilities</key>
+	<dict/>
+	<key>0311 - SupportedFeatures</key>
+	<dict/>
+	<key>0312 - SupportedFunctions</key>
+	<dict/>
+	<key>0313 - TotalImagingDataCapacity</key>
+	<dict/>
+</dict>
+</plist>

@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E7C9E0131B1BF62D00B5B1BA /* ServiceInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ServiceInfo.plist; sourceTree = "<group>"; };
 		E7FD07D01B1ABA2700C9E2B0 /* BitStream */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BitStream; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7FD07D31B1ABA2700C9E2B0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E7FD07DA1B1ABA4600C9E2B0 /* Bluetooth.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = Bluetooth.mm; path = ../Bluetooth.mm; sourceTree = "<group>"; };
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				E7FD07DA1B1ABA4600C9E2B0 /* Bluetooth.mm */,
+				E7C9E0131B1BF62D00B5B1BA /* ServiceInfo.plist */,
 				E7FD07DB1B1ABA4600C9E2B0 /* Bluetooth.h */,
 				E7FD07D31B1ABA2700C9E2B0 /* main.m */,
 			);
@@ -241,6 +243,7 @@
 				E7FD07D91B1ABA2700C9E2B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
